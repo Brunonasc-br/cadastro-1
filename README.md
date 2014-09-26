@@ -12,7 +12,7 @@ Neste exercício vamos, experimentar a passagem de valores. Não esqueça de faz
 
 2. Crie a operação de Atualizar
   * Não complique. Simplifique.
-  * Faça a operação de atualizar semelhante as demais operações ;-)
+  * Faça a operação de atualizar, imprimir na tela os dados da operação solicitada.
 
 ## URL
 3. Analise o funcionamento dos códigos
